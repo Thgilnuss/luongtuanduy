@@ -1,0 +1,5 @@
+C:\Users\cict\Documents\BaiKT\Thuvien\bin\Debug\Thuvien.dll
+C:\Users\cict\Documents\BaiKT\Thuvien\bin\Debug\Thuvien.pdb
+C:\Users\cict\Documents\BaiKT\Thuvien\obj\Debug\Thuvien.dll
+C:\Users\cict\Documents\BaiKT\Thuvien\obj\Debug\Thuvien.pdb
+C:\Users\cict\Documents\BaiKT\Thuvien\obj\Debug\Thuvien.csprojResolveAssemblyReference.cache
