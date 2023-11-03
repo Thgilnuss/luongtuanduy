@@ -6,3 +6,13 @@ C:\Users\cict\Documents\BaiKT\Server\obj\Debug\Server.exe
 C:\Users\cict\Documents\BaiKT\Server\obj\Debug\Server.pdb
 C:\Users\cict\Documents\BaiKT\Server\bin\Debug\Thuvien.dll
 C:\Users\cict\Documents\BaiKT\Server\bin\Debug\Thuvien.pdb
+C:\Users\Thgilnus\Downloads\BaiKT\Server\bin\Debug\Server.exe.config
+C:\Users\Thgilnus\Downloads\BaiKT\Server\bin\Debug\Server.exe
+C:\Users\Thgilnus\Downloads\BaiKT\Server\bin\Debug\Server.pdb
+C:\Users\Thgilnus\Downloads\BaiKT\Server\bin\Debug\Thuvien.dll
+C:\Users\Thgilnus\Downloads\BaiKT\Server\bin\Debug\Thuvien.pdb
+C:\Users\Thgilnus\Downloads\BaiKT\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\Thgilnus\Downloads\BaiKT\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Thgilnus\Downloads\BaiKT\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\Thgilnus\Downloads\BaiKT\Server\obj\Debug\Server.exe
+C:\Users\Thgilnus\Downloads\BaiKT\Server\obj\Debug\Server.pdb

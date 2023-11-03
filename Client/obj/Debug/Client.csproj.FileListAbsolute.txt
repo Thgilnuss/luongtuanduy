@@ -6,3 +6,13 @@ C:\Users\cict\Documents\BaiKT\Client\obj\Debug\Client.pdb
 C:\Users\cict\Documents\BaiKT\Client\bin\Debug\Thuvien.dll
 C:\Users\cict\Documents\BaiKT\Client\bin\Debug\Thuvien.pdb
 C:\Users\cict\Documents\BaiKT\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Thgilnus\Downloads\BaiKT\Client\bin\Debug\Client.exe.config
+C:\Users\Thgilnus\Downloads\BaiKT\Client\bin\Debug\Client.exe
+C:\Users\Thgilnus\Downloads\BaiKT\Client\bin\Debug\Client.pdb
+C:\Users\Thgilnus\Downloads\BaiKT\Client\bin\Debug\Thuvien.dll
+C:\Users\Thgilnus\Downloads\BaiKT\Client\bin\Debug\Thuvien.pdb
+C:\Users\Thgilnus\Downloads\BaiKT\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\Thgilnus\Downloads\BaiKT\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Thgilnus\Downloads\BaiKT\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\Thgilnus\Downloads\BaiKT\Client\obj\Debug\Client.exe
+C:\Users\Thgilnus\Downloads\BaiKT\Client\obj\Debug\Client.pdb

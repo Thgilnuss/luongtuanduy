@@ -3,3 +3,9 @@ C:\Users\cict\Documents\BaiKT\Thuvien\bin\Debug\Thuvien.pdb
 C:\Users\cict\Documents\BaiKT\Thuvien\obj\Debug\Thuvien.dll
 C:\Users\cict\Documents\BaiKT\Thuvien\obj\Debug\Thuvien.pdb
 C:\Users\cict\Documents\BaiKT\Thuvien\obj\Debug\Thuvien.csprojResolveAssemblyReference.cache
+C:\Users\Thgilnus\Downloads\BaiKT\Thuvien\bin\Debug\Thuvien.dll
+C:\Users\Thgilnus\Downloads\BaiKT\Thuvien\bin\Debug\Thuvien.pdb
+C:\Users\Thgilnus\Downloads\BaiKT\Thuvien\obj\Debug\Thuvien.csproj.AssemblyReference.cache
+C:\Users\Thgilnus\Downloads\BaiKT\Thuvien\obj\Debug\Thuvien.csproj.CoreCompileInputs.cache
+C:\Users\Thgilnus\Downloads\BaiKT\Thuvien\obj\Debug\Thuvien.dll
+C:\Users\Thgilnus\Downloads\BaiKT\Thuvien\obj\Debug\Thuvien.pdb
